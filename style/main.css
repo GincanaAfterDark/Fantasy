@@ -180,7 +180,7 @@ hr {
       font-weight: bold;
       height: 60px;
       line-height: 60px;
-      margin-top: 222px; }
+      margin-top: 122px; }
     .game-container .game-message .lower {
       display: block;
       margin-top: 59px; }
@@ -578,7 +578,7 @@ hr {
     -webkit-touch-callout: none;
     -webkit-user-select: none;
     -moz-user-select: none;
-    background: #bbada0;
+    background: rgba(0,0,0,0.7);
     border-radius: 6px;
     width: 280px;
     height: 280px;
@@ -607,7 +607,7 @@ hr {
         font-weight: bold;
         height: 60px;
         line-height: 60px;
-        margin-top: 222px; }
+        margin-top: 122px; }
       .game-container .game-message .lower {
         display: block;
         margin-top: 59px; }
